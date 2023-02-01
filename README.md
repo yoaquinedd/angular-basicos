@@ -1,6 +1,6 @@
-# Bases
+# Este es mi primer repositorio de GIT
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
+Este proyecto es de un curso de angular y esto es una prueba de modificacion.
 
 ## Development server
 
